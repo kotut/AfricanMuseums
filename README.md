@@ -8,5 +8,6 @@ A country-by-country list of link sources enumerating museums. If the country di
 To get sentiments of Museums (and cultural sites) visits, we reviewed all museums with Google reviews and sampled those with 100+ review as a means of obtaining a statistical significant sample.
 
 ------
-The data was used to supplement a short paper submitted to AFRICHI 2018
+The data was used to supplement a short paper submitted to AFRICHI 2018:
+
 Lindah Kotut, Ann Hoang, Jennifer Shenk, Havisha Panda, D. Scott McCrickard. *"Technology at the Museum: The Missing Voice"*

@@ -1,5 +1,5 @@
 # AfricanMuseums
-An ongoing repositry list of African Museums including a sample containing 100+ reviews on Google
+An ongoing repository list of African Museums and Cultural Heritage sites
 
 ## MuseumSourcesbyCountry
 A country-by-country list of link sources enumerating museums. If the country did not contain a ministry or other official links, we defaulted to a secondary link. Wikipedia and Archive pages were used as a double-check and are included as supplemental links.

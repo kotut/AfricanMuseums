@@ -9,4 +9,4 @@ To get sentiments of Museums (and cultural sites) visits, we reviewed all museum
 
 ------
 The data was used to supplement a short paper submitted to AFRICHI 2018
-Lindah Kotut, Ann Hoang, Jennifer Shenk, Havisha Panda, D. Scott McCrickard. "Technology at the Museum: The Missing Voice"
+Lindah Kotut, Ann Hoang, Jennifer Shenk, Havisha Panda, D. Scott McCrickard. *"Technology at the Museum: The Missing Voice"*
